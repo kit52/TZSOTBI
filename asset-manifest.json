@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TZSOTBI/static/css/main.6026a4e7.chunk.css",
-    "main.js": "/TZSOTBI/static/js/main.2a7f9175.chunk.js",
-    "main.js.map": "/TZSOTBI/static/js/main.2a7f9175.chunk.js.map",
+    "main.js": "/TZSOTBI/static/js/main.c334f4ae.chunk.js",
+    "main.js.map": "/TZSOTBI/static/js/main.c334f4ae.chunk.js.map",
     "runtime-main.js": "/TZSOTBI/static/js/runtime-main.7612adbc.js",
     "runtime-main.js.map": "/TZSOTBI/static/js/runtime-main.7612adbc.js.map",
     "static/js/2.a49f2b94.chunk.js": "/TZSOTBI/static/js/2.a49f2b94.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7612adbc.js",
     "static/js/2.a49f2b94.chunk.js",
     "static/css/main.6026a4e7.chunk.css",
-    "static/js/main.2a7f9175.chunk.js"
+    "static/js/main.c334f4ae.chunk.js"
   ]
 }
