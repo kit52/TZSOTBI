@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TZSOTBI/static/css/main.6026a4e7.chunk.css",
+    "main.js": "/TZSOTBI/static/js/main.2a7f9175.chunk.js",
+    "main.js.map": "/TZSOTBI/static/js/main.2a7f9175.chunk.js.map",
+    "runtime-main.js": "/TZSOTBI/static/js/runtime-main.7612adbc.js",
+    "runtime-main.js.map": "/TZSOTBI/static/js/runtime-main.7612adbc.js.map",
+    "static/js/2.a49f2b94.chunk.js": "/TZSOTBI/static/js/2.a49f2b94.chunk.js",
+    "static/js/2.a49f2b94.chunk.js.map": "/TZSOTBI/static/js/2.a49f2b94.chunk.js.map",
+    "static/js/3.b71c4008.chunk.js": "/TZSOTBI/static/js/3.b71c4008.chunk.js",
+    "static/js/3.b71c4008.chunk.js.map": "/TZSOTBI/static/js/3.b71c4008.chunk.js.map",
+    "index.html": "/TZSOTBI/index.html",
+    "static/css/main.6026a4e7.chunk.css.map": "/TZSOTBI/static/css/main.6026a4e7.chunk.css.map",
+    "static/js/2.a49f2b94.chunk.js.LICENSE.txt": "/TZSOTBI/static/js/2.a49f2b94.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TZSOTBI/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7612adbc.js",
+    "static/js/2.a49f2b94.chunk.js",
+    "static/css/main.6026a4e7.chunk.css",
+    "static/js/main.2a7f9175.chunk.js"
+  ]
+}
