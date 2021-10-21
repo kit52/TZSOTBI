@@ -43,7 +43,7 @@ function App() {
         </p>
       </div>
       <div className="wrapper">
-        <h1>3. Get - запрос</h1>
+        <h1>3. Get - запрос, фильтрация массива</h1>
         <button className="btn" onClick={fetchUsers}>Загрузить пользователей</button>
         <div className="users">
           {
