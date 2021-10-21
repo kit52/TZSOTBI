@@ -1,15 +1,14 @@
-import logo from './logo.svg';
+import { React } from 'react'
 import './App.css';
 import { useState } from 'react';
+import Form from './Form';
 
 const getRandomNumber = () => {
   return Math.floor(Math.random() * 10) + 1
 }
 
 function App() {
-  const [value, setValue] = useState("");
   const [usersFullName, setUsersFullName] = useState([])
-
   const fetchUsers = async () => {
     let response = await fetch("https://jsonplaceholder.typicode.com/users")
     if (response.ok) {
@@ -26,9 +25,9 @@ function App() {
       alert("Ошибка HTTP: " + response.status);
     }
   }
-  console.log(usersFullName);
   return (
     <div className="App">
+      <Form />
       <div className="wrapper">
         <h1>1. Лого яндекса</h1>
         <div className="logo"></div>
@@ -52,18 +51,8 @@ function App() {
             })
           }
         </div>
-        <div className="wrapper">
-          <h1>4. Контролируемый input</h1>
-          <form className="o">
-            <input className="input"
-              type="text"
-              placeholder="Lorem"
-              value={value}
-              onChange={(e) => setValue(e.target.value)}
-            />
-          </form>
-        </div>
       </div>
+
     </div>
   );
 }

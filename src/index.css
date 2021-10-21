@@ -84,9 +84,9 @@ code {
 .wrapper h1 {
   margin-bottom: 20px;
 }
-.input {
+.input_text {
   padding-left: 10px;
-  width: 100%;
+  width: 200px;
   background: #ffffff;
   border: 1px solid #c9cacc;
   box-sizing: border-box;
@@ -97,6 +97,12 @@ code {
   font-weight: 300;
   font-size: 16px;
   line-height: 18px;
+}
+.form {
+  display: flex;
+}
+textarea {
+  padding: 5px;
 }
 .input:focus {
   outline: none;
